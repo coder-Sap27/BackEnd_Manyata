@@ -1,0 +1,3 @@
+com\examples\spring\web\client\RESTClient.class
+com\examples\spring\web\rest\model\Employee.class
+com\examples\spring\web\rest\model\Login.class
